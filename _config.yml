@@ -1,6 +1,8 @@
 title: Nicolás Idrobo
 logo: /assets/img/Nicolas.png
-description:
+description: |
+  Minimal is a theme for GitHub Pages.
+  Second line of the description goes here.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
