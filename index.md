@@ -4,9 +4,11 @@ layout: default
 
 Welcome to my website!
 
-I am a Ph.D. Candidate in [Political Science](https://www.polisci.upenn.edu/){:target="_blank"} at the [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, where I work under the supervision of [Guy Grossman (Penn)](https://web.sas.upenn.edu/ggros/){:target="_blank"} and [Dorothy Kronick (UC Berkeley)](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}.
+I am a Ph.D. Candidate in [Political Science](https://www.polisci.upenn.edu/){:target="_blank"} at the [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, working under the supervision of [Guy Grossman (Penn)](https://web.sas.upenn.edu/ggros/){:target="_blank"} and [Dorothy Kronick (UC Berkeley)](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}.
 
-My dissertation studies how economic sanctions placed on authoritarian countries can fail by producing an economic decline that pushes political opponents to emigrate, making the regime stronger in the end. I also study political economy with a regional focus on Latin America, and methodology.
+My dissertation studies how economic sanctions placed on authoritarian countries can fail by producing an economic decline that pushes political opponents to emigrate, making the regime stronger in the end.
+
+I also study political economy with a regional focus on Latin America, and methodology. My work has been published by Cambridge Elements, and the Journal of Politics.
 
 Updated: June, 2024.
 
