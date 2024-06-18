@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 1200px; /* Increased width */
+  width: 1250px; /* Increased width */
   margin: 0 auto;
 }
 
@@ -186,8 +186,9 @@ strong {
 }
 
 section {
-  width: 920px; /* Further increased width */
+  width: 950px; /* Further increased width */
   float: right;
+  padding-left: 20px; /* Added padding to maintain distance from the left side */
   padding-bottom: 50px;
 }
 
