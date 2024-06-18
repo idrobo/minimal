@@ -41,18 +41,27 @@ Media coverage: NYT ([English](https://www.nytimes.com/2020/06/07/world/americas
 
 * * *
 
-# Work in progress
+# Working papers
 
 1. Oversight, Depolicing, and Violence: Evidence from Colombia,\
-with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}
+with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}\
+Latest draft
 
 2. On Unfounded Claims of Electoral Fraud,\
-with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}
+with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}\
+Latest draft
 
 3. The Steroid Era in Political Science,\
-with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
+with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
+Latest draft
 
-4. Covariate Distributions and Feasible Questions in Comparative Politics and Political Economy, with [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
+* * *
+
+# Work in progress
+
+1. Covariate Distributions and Feasible Questions in Comparative Politics and Political Economy, with [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
+
+2. The Hidden Power of Money: How Campaign Contributions to Legislators buy Influence Through Executive, with [Miguel Rueda](http://miguelrueda.net/){:target="_blank"} and [Nelson Ruiz](https://www.essex.ac.uk/people/RUIZG11605/Nelson-Ruiz){:target="_blank"}
 
 * * *
 
