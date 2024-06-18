@@ -10,6 +10,8 @@ My dissertation studies how economic sanctions placed on authoritarian regimes c
 
 I also study questions in political economy and methodology, and my regional focus is on Latin America. My work has been published by Cambridge Elements, and the Journal of Politics.
 
+You can access my [CV](https://idrobo.github.io/files/CV_nicolas_idrobo.pdf){:target="_blank"} here.
+
 * * *
 
 # Job market paper
@@ -52,7 +54,8 @@ Latest draft
 3. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
 Latest draft
 
-4. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}
+4. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}\
+Draft
 
 * * *
 
