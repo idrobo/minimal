@@ -8,7 +8,7 @@ I am a Ph.D. Candidate in [Political Science](https://www.polisci.upenn.edu/){:t
 
 My dissertation studies how economic sanctions placed on authoritarian regimes can not only be ineffective, but also counterproductive, by producing an economic decline that incentivizes political opponents to emigrate, making the regime politically stronger in the end.
 
-I also study political economy with a regional focus on Latin America, and methodology. My work has been published by Cambridge Elements, and the Journal of Politics.
+I also study questions in political economy and methodology, and my regional focus is on Latin America. My work has been published by Cambridge Elements, and the Journal of Politics.
 
 * * *
 
@@ -43,16 +43,14 @@ Media coverage: NYT ([English](https://www.nytimes.com/2020/06/07/world/americas
 
 # Working papers
 
-1. Oversight, Depolicing, and Violence: Evidence from Colombia,\
-with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}\
+2. On Unfounded Claims of Electoral Fraud, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}\
+**Submitted.**\
 Latest draft
 
-2. On Unfounded Claims of Electoral Fraud,\
-with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}\
+1. Oversight, Depolicing, and Violence: Evidence from Colombia, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}\
 Latest draft
 
-3. The Steroid Era in Political Science,\
-with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
+3. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
 Latest draft
 
 * * *
@@ -61,7 +59,7 @@ Latest draft
 
 1. Covariate Distributions and Feasible Questions in Comparative Politics and Political Economy, with [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
 
-2. The Hidden Power of Money: How Campaign Contributions to Legislators buy Influence Through Executive, with [Miguel Rueda](http://miguelrueda.net/){:target="_blank"} and [Nelson Ruiz](https://www.essex.ac.uk/people/RUIZG11605/Nelson-Ruiz){:target="_blank"}
+2. The Hidden Power of Money: How Campaign Contributions to Legislators Buy Legislative Influence, with [Miguel Rueda](http://miguelrueda.net/){:target="_blank"} and [Nelson Ruiz](https://www.essex.ac.uk/people/RUIZG11605/Nelson-Ruiz){:target="_blank"}
 
 * * *
 
