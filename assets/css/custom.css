@@ -1,0 +1,11 @@
+/* Increase the width of the page container */
+.page {
+  max-width: 1200px; /* You can set this to any desired width */
+  margin: 0 auto; /* Center align the container */
+  padding: 0 20px; /* Add some padding to the sides */
+}
+
+/* Adjust the width of the main content */
+.main-content {
+  width: 100%;
+}
