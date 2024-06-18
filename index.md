@@ -18,31 +18,29 @@ with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dor
 
 # Elements
 
-A Practical Introduction to Regression Discontinuity Designs: Foundations,
+1. A Practical Introduction to Regression Discontinuity Designs: Foundations,
 with Matias Cattaneo and Rocío Titiunik
 
-A Practical Introduction to Regression Discontinuity Designs: Extensions,
+2. A Practical Introduction to Regression Discontinuity Designs: Extensions,
 with Matias Cattaneo and Rocío Titiunik
 
 * * *
 
 # Work in progress
 
-## Work in progress
+1. Oversight, Depolicing, and Violence: Evidence from Colombia, with [Dorothy Kronick](http://dorothykronick.com/about.html){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
 
-* Oversight, Depolicing, and Violence: Evidence from Colombia, with [Dorothy Kronick](http://dorothykronick.com/about.html){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
+2. On Unfounded Claims of Electoral Fraud, with [Dorothy Kronick](http://dorothykronick.com/about.html){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
 
-* On Unfounded Claims of Electoral Fraud, with [Dorothy Kronick](http://dorothykronick.com/about.html){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
+3. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
 
-* The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
-
-* Covariate Distributions and Feasible Questions in Comparative Politics and Political Economy, with [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
+4. Covariate Distributions and Feasible Questions in Comparative Politics and Political Economy, with [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.
 
 * * *
 
 ## Pre-doctoral publications
 
-* Illegal Gold Mining and Violence in Colombia, with [Daniel Mejía](https://economia.uniandes.edu.co/mejia){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"} and [Ana María Tribín](https://www.linkedin.com/in/ana-tribin-ph-d-1a881170?trk=public_profile_browsemap){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.\
+1. Illegal Gold Mining and Violence in Colombia, with [Daniel Mejía](https://economia.uniandes.edu.co/mejia){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"} and [Ana María Tribín](https://www.linkedin.com/in/ana-tribin-ph-d-1a881170?trk=public_profile_browsemap){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}.\
 **Peace Economics, Peace Science and Public Policy**. Volume 20, Issue 1, Pages 83-111, January 2014.\
 [Published Version](https://doi.org/10.1515/peps-2013-0053){:target="_blank" style="color: #005792; text-decoration: none" rel="noopener"}
 
