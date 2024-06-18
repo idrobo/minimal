@@ -4,11 +4,11 @@ layout: default
 
 Welcome to my website!
 
-I am a Ph.D. Candidate in [Political Science](https://www.polisci.upenn.edu/){:target="_blank"} at the [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, where I am also a fellow of the [Penn Development Research Initiative (PDRI) - DevLab@Penn](https://pdri-devlab.upenn.edu/){:target="_blank"}. My main research interests are related to the political economy of development, with a regional focus on Latin America. More broadly, I am interested in Comparative Politics and Methodology. I work under the supervision of [Guy Grossman (Penn)](https://web.sas.upenn.edu/ggros/){:target="_blank"} and [Dorothy Kronick (UC Berkeley)](http://dorothykronick.com/about.html){:target="_blank"}.
+I am a Ph.D. Candidate in [Political Science](https://www.polisci.upenn.edu/){:target="_blank"} at the [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, where I work under the supervision of [Guy Grossman (Penn)](https://web.sas.upenn.edu/ggros/){:target="_blank"} and [Dorothy Kronick (UC Berkeley)](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}.
 
-Before starting my doctoral studies I obtained a Master in Economics from the [University of Michigan](https://umich.edu/){:target="_blank"}, a Master in Economics and majors in Economics and Mathematics from [Universidad de los Andes](https://uniandes.edu.co/){:target="_blank"}.
+My dissertation studies how economic sanctions placed on authoritarian countries can fail by producing an economic decline that pushes political opponents to emigrate, making the regime stronger in the end. I also study political economy with a regional focus on Latin America, and methodology.
 
-Updated: May, 2024.
+Updated: June, 2024.
 
 * * *
 
