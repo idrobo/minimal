@@ -10,17 +10,20 @@ Why Economic Sanctions Backfire
 
 # Main publications
 
-Do Shifts in Late-Counted Votes Signal Fraud? Evidence from Bolivia, with Dorothy Kronick and Francisco Rodríguez
+Do Shifts in Late-Counted Votes Signal Fraud? Evidence from Bolivia,
+with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick) and Francisco Rodríguez
 **The Journal of Politics**, 2022
 
 * * *
 
 # Elements
 
-A Practical Introduction to Regression Discontinuity Designs: Foundations, with Matias Cattaneo and Rocío Titiunik
+A Practical Introduction to Regression Discontinuity Designs: Foundations,
+with Matias Cattaneo and Rocío Titiunik
 
 
-A Practical Introduction to Regression Discontinuity Designs: Extensions, with Matias Cattaneo and Rocío Titiunik
+A Practical Introduction to Regression Discontinuity Designs: Extensions,
+with Matias Cattaneo and Rocío Titiunik
 
 * * *
 
