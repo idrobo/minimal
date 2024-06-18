@@ -18,7 +18,9 @@ with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dor
 
 # Elements
 
-1. A Practical Introduction to Regression Discontinuity Designs: Foundations, with [Matias Cattaneo](https://cattaneo.princeton.edu/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
+1. A Practical Introduction to Regression Discontinuity Designs: Foundations, with [Matias Cattaneo](https://cattaneo.princeton.edu/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
+**Cambridge Elements: Quantitative and Computational Methods for Social Science**, Cambridge University Press, 2020.\
+[Final draft](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP.pdf){:target="_blank"} | [Replication](https://github.com/rdpackages-replication/CIT_2020_CUP){:target="_blank"} | [Publication](https://doi.org/10.1017/9781108684606){:target="_blank"} | [Erratum](https://rdpackages.github.io/references/Cattaneo-Idrobo-Titiunik_2020_CUP--erratum.pdf){:target="_blank"}
 
 2. A Practical Introduction to Regression Discontinuity Designs: Extensions, with [Matias Cattaneo](https://cattaneo.princeton.edu/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
 **Cambridge Elements: Quantitative and Computational Methods for Social Science**, Cambridge University Press, 2024.\
