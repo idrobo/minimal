@@ -14,7 +14,8 @@ I also study questions in political economy and methodology, and my regional foc
 
 # Job market paper
 
-Why Economic Sanctions Backfire
+Why Economic Sanctions Backfire\
+Latest draft
 
 * * *
 
@@ -51,6 +52,8 @@ Latest draft
 3. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
 Latest draft
 
+4. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}
+
 * * *
 
 # Work in progress
@@ -65,6 +68,6 @@ Latest draft
 
 1. Illegal Gold Mining and Violence in Colombia, with [Daniel Mejía](https://economia.uniandes.edu.co/mejia){:target="_blank"} and [Ana María Tribín](https://wbl.worldbank.org/en/aboutus/meet-the-team){:target="_blank"}\
 **Peace Economics, Peace Science and Public Policy, 2014.**\
-[Published Version](https://doi.org/10.1515/peps-2013-0053){:target="_blank"}
+[Publication](https://doi.org/10.1515/peps-2013-0053){:target="_blank"}
 
 * * *
