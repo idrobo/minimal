@@ -10,8 +10,6 @@ My dissertation studies how economic sanctions placed on authoritarian regimes c
 
 I also study political economy with a regional focus on Latin America, and methodology. My work has been published by Cambridge Elements, and the Journal of Politics.
 
-Updated: June, 2024.
-
 * * *
 
 # Job market paper
