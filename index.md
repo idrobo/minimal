@@ -2,6 +2,20 @@
 layout: default
 ---
 
+# Job Market Paper
+
+Why Economic Sanctions Backfire
+
+* * *
+
+# Elements
+
+Element 1
+
+Element 2
+
+* * *
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
