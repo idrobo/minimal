@@ -2,9 +2,13 @@
 layout: default
 ---
 
-# Job Market Paper
+# Job market paper
 
 Why Economic Sanctions Backfire
+
+* * *
+
+# Main publications
 
 * * *
 
@@ -13,6 +17,10 @@ Why Economic Sanctions Backfire
 Element 1
 
 Element 2
+
+* * *
+
+# Work in progress
 
 * * *
 
