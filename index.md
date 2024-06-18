@@ -11,7 +11,7 @@ Why Economic Sanctions Backfire
 # Main publications
 
 Do Shifts in Late-Counted Votes Signal Fraud? Evidence from Bolivia,
-with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick) and Francisco Rodríguez
+with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and Francisco Rodríguez
 **The Journal of Politics**, 2022
 
 * * *
