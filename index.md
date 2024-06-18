@@ -13,7 +13,7 @@ Why Economic Sanctions Backfire
 1. Do Shifts in Late-Counted Votes Signal Fraud? Evidence from Bolivia,\
 with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}\
 **The Journal of Politics**, 2022\
-[Final draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3621475){:target="_blank"} | [Publication](https://www.journals.uchicago.edu/doi/10.1086/719639){:target="_blank"} | [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UPHCUE){:target="_blank"} \
+[Final draft](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3621475){:target="_blank"} | [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UPHCUE){:target="_blank"} | [Publication](https://www.journals.uchicago.edu/doi/10.1086/719639){:target="_blank"}\
 Media coverage: NYT ([English](https://www.nytimes.com/2020/06/07/world/americas/bolivia-election-evo-morales.html){:target="_blank"}, [Spanish](https://www.nytimes.com/es/2020/06/07/espanol/america-latina/elecciones-bolivia-evo-morales.html){:target="_blank"}), [Crisis Group](https://www.crisisgroup.org/latin-america-caribbean/andes/bolivia/b43-bolivia-faces-new-polls-shadow-fraud-row){:target="_blank"}\
 [OAS Response](https://www.oas.org/en/media_center/press_release.asp?sCodigo=E-064/20){:target="_blank"} | [Nooruddin's Response](/files/Nooruddin_response.pdf){:target="_blank"} | [Our Response to Nooruddin](https://franciscorodrigueznet.files.wordpress.com/2020/08/responsetonooruddin-3.pdf){:target="_blank"}
 
