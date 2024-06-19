@@ -14,7 +14,7 @@ I also study questions in political economy and methodology, and my regional foc
 <div style="margin-top: 20px;">
   Contact information:<br>
   <div style="margin-left: 20px;">
-    idrobo@sas.upenn.edu<br>
+    <a href="mailto:idrobo@sas.upenn.edu">idrobo@sas.upenn.edu</a><br>
     +1 (734) 353-7093<br>
     133 S 36th St<br>
     Office 350<br>
