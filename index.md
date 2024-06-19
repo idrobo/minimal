@@ -16,7 +16,7 @@ You can access my [CV](https://idrobo.github.io/files/CV_nicolas_idrobo.pdf){:ta
 
 # Job market paper
 
-Why Economic Sanctions Backfire\
+* Why Economic Sanctions Backfire\
 Latest draft
 
 * * *
@@ -55,7 +55,7 @@ Latest draft
 Latest draft
 
 4. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}\
-Draft
+Latest draft
 
 * * *
 
