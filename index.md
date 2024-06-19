@@ -10,18 +10,16 @@ My dissertation studies how economic sanctions placed on authoritarian regimes c
 
 I also study questions in political economy and methodology, and my regional focus is on Latin America. My work has been published by Cambridge Elements, and the Journal of Politics.
 
-You can access my [CV](https://idrobo.github.io/files/CV_nicolas_idrobo.pdf){:target="_blank"} here.
-
 <!-- Hyperlinked Icons Side by Side -->
 <div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px;">
-  <a href="https://scholar.google.com/citations?user=DJxCd7AAAAAJ&hl=en" target="_blank">
-    <img src="{{ '/assets/img/google-scholar-icon.png' | relative_url }}" alt="Google Scholar" style="width:48px;height:48px;">
-  </a>
   <a href="https://idrobo.github.io/files/CV_nicolas_idrobo.pdf" target="_blank">
     <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:42px;height:35px; margin-top: 0px;">
   </a>
   <a href="mailto:idrobo@sas.upenn.edu" target="_blank">
-    <img src="{{ '/assets/img/mail.png' | relative_url }}" alt="Email" style="width:48px;height:48px;">
+    <img src="{{ '/assets/img/mail.png' | relative_url }}" alt="Email" style="width:46px;height:46px;">
+  </a>
+  <a href="https://scholar.google.com/citations?user=DJxCd7AAAAAJ&hl=en" target="_blank">
+    <img src="{{ '/assets/img/google-scholar-icon.png' | relative_url }}" alt="Google Scholar" style="width:48px;height:48px;">
   </a>
 </div>
 
