@@ -10,6 +10,16 @@ My dissertation studies how economic sanctions placed on authoritarian regimes c
 
 I also study questions in political economy and methodology, and my regional focus is on Latin America. My work has been published by Cambridge Elements, and the Journal of Politics.
 
+<!-- Contact Information -->
+<h2>Contact Information:</h2>
+<div style="white-space: pre;">
+idrobo@sas.upenn.edu
++1 (734) 353-7093
+133 S 36th St
+Office 350
+Philadelphia, PA 19104
+</div>
+
 <!-- Hyperlinked Icons Side by Side -->
 <div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://idrobo.github.io/files/CV_nicolas_idrobo.pdf" target="_blank">
@@ -21,16 +31,6 @@ I also study questions in political economy and methodology, and my regional foc
   <a href="https://scholar.google.com/citations?user=DJxCd7AAAAAJ&hl=en" target="_blank">
     <img src="{{ '/assets/img/google-scholar-icon.png' | relative_url }}" alt="Google Scholar" style="width:48px;height:48px;">
   </a>
-</div>
-
-<hr>
-
-<!-- Contact Information -->
-<h2>Contact Information:</h2>
-<div style="white-space: pre;">
-idrobo@sas.upenn.edu
-+1 (734) 353-7093
-Etc.
 </div>
 
 * * *
