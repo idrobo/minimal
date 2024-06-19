@@ -13,7 +13,7 @@ I also study questions in political economy and methodology, and my regional foc
 You can access my [CV](https://idrobo.github.io/files/CV_nicolas_idrobo.pdf){:target="_blank"} here.
 
 <!-- Hyperlinked Icons Side by Side -->
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center; margin-top: 20px;">
   <a href="https://scholar.google.com/citations?user=DJxCd7AAAAAJ&hl=en" target="_blank">
     <img src="{{ '/assets/img/google-scholar-icon.png' | relative_url }}" alt="Google Scholar" style="width:48px;height:48px;">
   </a>
