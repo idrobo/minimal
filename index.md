@@ -18,9 +18,10 @@ You can access my [CV](https://idrobo.github.io/files/CV_nicolas_idrobo.pdf){:ta
     <img src="{{ '/assets/img/google-scholar-icon.png' | relative_url }}" alt="Google Scholar" style="width:48px;height:48px;">
   </a>
   <a href="https://idrobo.github.io/files/CV_nicolas_idrobo.pdf" target="_blank">
-    <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:48px;height:48px;">
+    <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:38px;height:40px;">
   </a>
 </div>
+
 
 * * *
 
