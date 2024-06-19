@@ -12,6 +12,11 @@ I also study questions in political economy and methodology, and my regional foc
 
 You can access my [CV](https://idrobo.github.io/files/CV_nicolas_idrobo.pdf){:target="_blank"} here.
 
+<!-- Hyperlinked Google Scholar Icon -->
+<a href="https://scholar.google.com/citations?user=XXXXXX" target="_blank">
+  <i class="ai ai-google-scholar" style="font-size: 24px; color: #2d6d66;"></i>
+</a>
+
 * * *
 
 # Job market paper
