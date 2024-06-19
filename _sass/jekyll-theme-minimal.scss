@@ -35,13 +35,13 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color: #267CB9;
+  color: #2d6d66;
   text-decoration: none;
 }
 
 a:hover, a:focus {
-  color: #069;
-  font-weight: normal; /* Changed from bold to normal */
+  color: #2d6d66;
+  font-weight: normal; /* Keeping the hover and focus state same color */
 }
 
 a small {
@@ -146,11 +146,11 @@ ul.downloads {
   border-radius: 5px 0 0 5px;
 }
 
-.downloads li:last-child a {
+download li:last-child a {
   border-radius: 0 5px 5px 0;
 }
 
-.downloads a {
+download a {
   line-height: 1;
   font-size: 11px;
   color: #676767;
@@ -160,12 +160,12 @@ ul.downloads {
   height: 34px;
 }
 
-.downloads a:hover, .downloads a:focus {
+downloads a:hover, .downloads a:focus {
   color: #675C5C;
   font-weight: normal; /* Changed from bold to normal */
 }
 
-.downloads ul a:active {
+downloads ul a:active {
   background-color: #f0f0f0;
 }
 
@@ -174,12 +174,12 @@ strong {
   font-weight: 700;
 }
 
-.downloads li + li + li {
+downloads li + li + li {
   border-right: none;
   width: 89px;
 }
 
-.downloads a strong {
+downloads a strong {
   font-size: 14px;
   display: block;
   color: #222;
@@ -268,11 +268,11 @@ footer {
     padding: 15px;
   }
 
-  .downloads {
+  downloads {
     width: 99%;
   }
 
-  .downloads li, .downloads li + li + li {
+  downloads li, downloads li + li + li {
     width: 33%;
   }
 }
