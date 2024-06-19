@@ -11,7 +11,7 @@ My dissertation studies how economic sanctions placed on authoritarian regimes c
 I also study questions in political economy and methodology, and my regional focus is on Latin America. My work has been published by Cambridge Elements, and the Journal of Politics.
 
 <!-- Hyperlinked Icons Side by Side -->
-<div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://idrobo.github.io/files/CV_nicolas_idrobo.pdf" target="_blank">
     <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:42px;height:35px; margin-top: 0px;">
   </a>
