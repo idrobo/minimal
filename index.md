@@ -4,13 +4,11 @@ layout: default
 
 Welcome to my website!
 
-I am a Ph.D. Candidate in [Political Science](https://www.polisci.upenn.edu/){:target="_blank"} at the [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, working under the supervision of [Guy Grossman (Penn)](https://web.sas.upenn.edu/ggros/){:target="_blank"} and [Dorothy Kronick (UC Berkeley)](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}.
+I am a Ph.D. Candidate in [Political Science](https://www.polisci.upenn.edu/){:target="_blank"} at the [University of Pennsylvania](https://www.upenn.edu/){:target="_blank"}, and I will be on the academic job market in the Fall of 2024.
 
 My dissertation studies how economic sanctions placed on authoritarian regimes can not only be ineffective, but also counterproductive, by producing an economic decline that incentivizes political opponents to emigrate, making the regime politically stronger in the end.
 
-I also study questions in political economy and methodology, and my regional focus is on Latin America. My work has been published by Cambridge Elements, and the Journal of Politics.
-
-I will be on the academic job market in the Fall of 2024.
+I also study questions in political economy and methodology, with a regional focus on Latin America. My work has been published in the Journal of Politics and Cambridge Elements.
 
 <!-- Contact Information -->
 <div style="margin-top: 20px;">
@@ -27,7 +25,7 @@ I will be on the academic job market in the Fall of 2024.
 <!-- Hyperlinked Icons Side by Side -->
 <div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://idrobo.github.io/files/CV_nicolas_idrobo.pdf" target="_blank">
-    <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:42px;height:32px; margin-top: 0px;">
+    <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:48px;height:32px; margin-top: 0px;">
   </a>
   <a href="mailto:idrobo@sas.upenn.edu" target="_blank">
     <img src="{{ '/assets/img/mail.png' | relative_url }}" alt="Email" style="width:46px;height:46px;">
@@ -70,7 +68,7 @@ Latest draft
 # Working papers
 
 2. On Unfounded Claims of Electoral Fraud, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}\
-**Submitted.**\
+**Under review.**\
 Latest draft
 
 1. Oversight, Depolicing, and Violence: Evidence from Colombia, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}\
