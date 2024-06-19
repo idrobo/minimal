@@ -23,6 +23,16 @@ I also study questions in political economy and methodology, and my regional foc
   </a>
 </div>
 
+<hr>
+
+<!-- Contact Information -->
+<h2>Contact Information:</h2>
+<div style="white-space: pre;">
+idrobo@sas.upenn.edu
++1 (734) 353-7093
+Etc.
+</div>
+
 * * *
 
 # Job market paper
