@@ -13,7 +13,7 @@ I also study questions in political economy and methodology, and my regional foc
 <!-- Hyperlinked Icons Side by Side -->
 <div style="display: flex; justify-content: center; gap: 80px; align-items: center; margin-top: 20px; margin-bottom: 20px;">
   <a href="https://idrobo.github.io/files/CV_nicolas_idrobo.pdf" target="_blank">
-    <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:42px;height:35px; margin-top: 0px;">
+    <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:42px;height:34px; margin-top: 0px;">
   </a>
   <a href="mailto:idrobo@sas.upenn.edu" target="_blank">
     <img src="{{ '/assets/img/mail.png' | relative_url }}" alt="Email" style="width:46px;height:46px;">
