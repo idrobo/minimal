@@ -20,8 +20,10 @@ You can access my [CV](https://idrobo.github.io/files/CV_nicolas_idrobo.pdf){:ta
   <a href="https://idrobo.github.io/files/CV_nicolas_idrobo.pdf" target="_blank">
     <img src="{{ '/assets/img/CV.png' | relative_url }}" alt="CV" style="width:38px;height:35px; margin-top: 5px;">
   </a>
+  <a href="mailto:idrobo@sas.upenn.edu" target="_blank">
+    <img src="{{ '/assets/img/mail.png' | relative_url }}" alt="Email" style="width:48px;height:48px;">
+  </a>
 </div>
-
 
 * * *
 
