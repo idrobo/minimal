@@ -78,11 +78,9 @@ Draft coming soon
 
 # Work in progress
 
-1. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
-Latest draft
+1. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
 
-2. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}\
-Latest draft
+2. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}
 
 3. The Hidden Power of Money: How Campaign Contributions to Legislators Buy Legislative Influence, with [Miguel Rueda](http://miguelrueda.net/){:target="_blank"} and [Nelson Ruiz](https://www.essex.ac.uk/people/RUIZG11605/Nelson-Ruiz){:target="_blank"}
 
