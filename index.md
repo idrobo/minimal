@@ -78,7 +78,7 @@ Draft coming soon
 
 # Work in progress
 
-1. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
+1. The Advent of the Inference Era: Science Production in Economics and Political Science since 1970, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
 
 2. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}
 
