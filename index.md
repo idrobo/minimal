@@ -40,7 +40,7 @@ I also study questions in political economy and methodology, with a regional foc
 # Job market paper
 
 * Why Economic Sanctions Backfire\
-Latest draft
+Draft coming soon
 
 * * *
 
@@ -67,26 +67,26 @@ Latest draft
 
 # Working papers
 
-2. On Unfounded Claims of Electoral Fraud, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}\
+1. On Unfounded Claims of Electoral Fraud, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"} and [Francisco Rodríguez](https://korbel.du.edu/about/directory/francisco-r-rodriguez-caballero){:target="_blank"}\
 **Under review.**\
-Latest draft
+[Latest draft](https://dorothykronick.com/Bolivia_WDResponse.pdf){:target="_blank"}
 
-1. Oversight, Depolicing, and Violence: Evidence from Colombia, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}\
-Latest draft
-
-3. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
-Latest draft
-
-4. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}\
-Latest draft
+2. Oversight, Depolicing, and Violence: Evidence from Colombia, with [Dorothy Kronick](https://gspp.berkeley.edu/research-and-impact/faculty/dorothy-kronick){:target="_blank"}\
+[Latest draft](https://dorothykronick.com/Ley906_202406.pdf){:target="_blank"}
 
 * * *
 
 # Work in progress
 
-1. Covariate Distributions and Feasible Questions in Comparative Politics and Political Economy, with [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
+1. The Steroid Era in Political Science, with [Arthur Lupia](https://lsa.umich.edu/polisci/people/faculty/lupia.html){:target="_blank"}, [Hwayong Shin](https://www.hwayongshin.com/){:target="_blank"} and [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}\
+Latest draft
 
-2. The Hidden Power of Money: How Campaign Contributions to Legislators Buy Legislative Influence, with [Miguel Rueda](http://miguelrueda.net/){:target="_blank"} and [Nelson Ruiz](https://www.essex.ac.uk/people/RUIZG11605/Nelson-Ruiz){:target="_blank"}
+2. The Holy Roman Empire as an International Organization, with [Jason Hartwig](https://www.jasonhartwig.com/about){:target="_blank"}\
+Latest draft
+
+3. The Hidden Power of Money: How Campaign Contributions to Legislators Buy Legislative Influence, with [Miguel Rueda](http://miguelrueda.net/){:target="_blank"} and [Nelson Ruiz](https://www.essex.ac.uk/people/RUIZG11605/Nelson-Ruiz){:target="_blank"}
+
+4. Covariate Distributions and Feasible Questions in Comparative Politics and Political Economy, with [Rocío Titiunik](https://scholar.princeton.edu/titiunik){:target="_blank"}
 
 * * *
 
